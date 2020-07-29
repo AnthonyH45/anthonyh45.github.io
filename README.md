@@ -18,7 +18,7 @@ Here are the links from the website:
 
 
 # [Tic-Tac-Toe](https://anthonyh45.github.io/react-gh-pages/)
-I followed the React tutorial on building a tic-tac-toe game ([link](https://anthonyh45.github.io/react-gh-pages/)), added highlighting squares, changed some css and published it using `gh-pages`, again, following a tutorial on how to publish React apps on github ([here](https://github.com/gitname/react-gh-pages))
+I followed the React tutorial on building a tic-tac-toe game ([https://anthonyh45.github.io/react-gh-pages/](https://anthonyh45.github.io/react-gh-pages/)), added highlighting squares, changed some css and published it using `gh-pages`, again, following a tutorial on how to publish React apps on github ([https://github.com/gitname/react-gh-pages](https://github.com/gitname/react-gh-pages))
 
 # NOTE
 - The animated favicon only works in firefox right now, so use that if you wanna see the little golang gopher dance. It was a slack emote found from online.
