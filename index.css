@@ -1,9 +1,15 @@
-.center {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 350px;
-    height: 350px;
+html {
+    overflow-x: hidden;
+    box-sizing: border-box;
+}
+
+.header {
+    color: #26f9ad;
+    margin: auto;
+    display: table;
+    content: "";
+    clear: both;
+    line-height: 25px;
 }
 
 .body {
@@ -19,19 +25,18 @@
     background-size: cover;
 }
 
-.text_body {
+.section {
     display: block;
     color: #26f9ad;
     text-align: center;
-    margin-left: auto;
-    margin-right: auto;
+    margin: auto;
     background-color: #303030;
     height: auto;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    padding-left: 5em;
-    padding-right: 5em;
+    padding-left: 2em;
+    padding-right: 2em;
 }
 
 a { text-decoration: underline; color: #00ff00; }
@@ -40,14 +45,14 @@ a:hover { text-decoration: underline; color: #00ff00; }
 a:focus { text-decoration: underline; color: #00ff00; }
 a:hover, a:active { text-decoration: underline; color: #00ff00; }
 
-table, th, td {
+#card table, th, td {
     align-items: center;
     border: 1px solid grey;
+    padding: 0.5em;
 }
 
 .tablecenter {
     text-align: center;
-    margin-left: auto;
-    margin-right: auto;
+    margin: auto;
     width: auto;
 }
