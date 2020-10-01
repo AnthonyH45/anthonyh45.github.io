@@ -25,3 +25,5 @@ I followed the React tutorial on building a tic-tac-toe game ([https://anthonyh4
 
 # NOTE 2.0
 - Only 3 people have solved my CTF so far, can you figure it out?
+
+# I will be updating the CTF to make it a little easier
