@@ -1,6 +1,6 @@
 # Welcome to my website
 
-This will serve as a testing ground for my HTML & CSS, as well as a public facing site with all my links.
+Here you can find links with other things
 
 There is a CTF on my website that is hopefully doable, if you get stuck or are having trouble, please let me know as I wanted it to be fun and not mind-bendingly difficult.
 
@@ -12,8 +12,6 @@ Here are the links from the website:
 | Contact | [anthony at hallak dot net](mailto:anthony@hallak.net) |
 | LinkedIn | [anthony-hallak](https://www.linkedin.com/in/anthony-hallak/) |
 | Resume | [PDF](https://anthonyh45.github.io/content/resume.pdf) |
-| Github | [check the URL?](https://github.com/AnthonyH45) |
-| LeetCode | [link](https://leetcode.com/anthonyh45/) |
 | HackTheBox | [HTB](https://www.hackthebox.eu/profile/127698) |
 
 ## NOTE
