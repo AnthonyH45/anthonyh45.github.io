@@ -20,6 +20,3 @@ Here are the links from the website:
 
 - The animated favicon only works in firefox right now, so use that if you wanna see the little golang gopher dance. It was a slack emote found from online.
 
-## NOTE 2.0
-
-- Only 5 people have solved my CTF so far, can you figure it out?
